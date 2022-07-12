@@ -1,20 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=KangJH's%20Github&fontSize=50)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangju2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 - I'm Front-end Developer!
 - 🌱 I’m currently learning **React.js**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://instagram.com/11kangju00" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="11kangju00"
-            height="30"
-            width="40"
-    /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -78,6 +66,18 @@
             height="40"
         />
     </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://instagram.com/11kangju00" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="11kangju00"
+            height="30"
+            width="40"
+    /></a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangju2000)](https://github.com/anuraghazra/github-readme-stats)
