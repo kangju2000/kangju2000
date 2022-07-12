@@ -1,8 +1,7 @@
+<h3 align="left">Juhyeok Kang</h3>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=KangJH's%20Github&fontSize=50)
-
-- I'm Front-end Developer!
-- 🌱 I’m currently learning **React.js**
+- 💻 Front-end Developer
+- 🌱 currently learning **React.js**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -67,6 +66,11 @@
         />
     </a>
 </p>
+
+<h3 align="left">Project:</h3>
+    <p align="left">
+        <a href="https://github.com/Breaking-Dope/breaking-frontend">[브레이킹 - 기사 제보 기반 SNS 서비스]</a> (2022.06.20 ~ )
+    </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
