@@ -1,78 +1,31 @@
-<h3 align="left">Juhyeok Kang</h3>
+## Introduction
+- 강주혁 Juhyeok Kang
+- Front-end Developer
 
-- 💻 Front-end Developer
-- 🌱 currently learning **React.js**
+## Languages and Tools:
+<div align="center">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java%2B%2B&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <br>
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+## Project
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
-
-<h3 align="left">Project:</h3>
-    <p align="left">
         <a href="https://github.com/Breaking-Dope/breaking-frontend">[브레이킹 - 기사 제보 기반 SNS 서비스]</a> (2022.06.20 ~ )
     </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect:
 <p align="left">
     <a href="https://instagram.com/11kangju00" target="blank"
         ><img
@@ -85,6 +38,3 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=kangju2000&show_icons=true)
-
-![Metrics](https://metrics.lecoq.io/kangju2000?template=classic&base.repositories=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul)
-
