@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangju2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Introduction
 - 강주혁 Juhyeok Kang
 - Front-end Developer
@@ -22,7 +23,7 @@
 
 ## Project
 <p align="left">
-        <a href="https://github.com/Breaking-Dope/breaking-frontend">[브레이킹 - 기사 제보 기반 SNS 서비스]</a> (2022.06.20 ~ )
+        <a href="https://github.com/Breaking-Dope/breaking-frontend">[브레이킹 - 기사 제보 기반 SNS 서비스]</a> (2022.06 ~ 2022.08)
     </p>
 
 ## Connect:
