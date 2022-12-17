@@ -24,13 +24,13 @@
 
 ## About me:
 <p align="left">
-    <a href="https://kang-ju.tistory.com/" target="blank">
+    <a href="https://kang-ju.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
     </a>
-    <a href="https://kangju2000.notion.site/kangju2000/Frontend-Developer-e0a0e662e5aa40c592231e75f70395d4" target="blank">
+    <a href="https://kangju2000.notion.site/kangju2000/Frontend-Developer-e0a0e662e5aa40c592231e75f70395d4" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </a>
-    <a href="https://instagram.com/11kangju00" target="blank">
+    <a href="https://instagram.com/11kangju00" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </p>
