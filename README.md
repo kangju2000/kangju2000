@@ -37,4 +37,4 @@
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=kangju2000&show_icons=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sc5wuw4ud5oaeoiolydej4p3wm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31sc5wuw4ud5oaeoiolydej4p3wm&redirect=true)
