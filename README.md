@@ -33,23 +33,24 @@
 
 ## Team
 
-<a href="https://prography.org/" target="_blank">Prography</a> (2023.02 ~ 2023.08)
-<a href="https://github.com/Self-Driven-Development" target="_blank">Self-Driven-Development</a> (2023.05 ~ )
-<a href="https://github.com/d-o-p-e" target="_blank">도프(Dope) - 개발자 스터디</a> (2022.03 ~ )
-    
+[Prography](https://prography.org/) (2023.02 ~ 2023.08)
+[Self-Driven-Development](https://github.com/Self-Driven-Development) (2023.05 ~ )
+[도프(Dope) - 개발자 스터디](https://github.com/d-o-p-e) (2022.03 ~ )
+
 ## Study
-    
-<a href="https://github.com/guesung/Frontend-Study" target="_blank">CS 스터디</a> (2023.06 ~ )
-<a href="https://github.com/Self-Driven-Development/TIL" target="_blank">Dogsounds TIL 스터디</a> (2023.05 ~ )
-<a href="https://github.com/kangju2000/functional-programming-study" target="_blank">함수형 프로그래밍 스터디</a> (2023.04 ~ )
-<a href="https://github.com/Yoon-Hae-Min/create-react-with-vanilla-js-study" target="_blank">vanilla JS로 리액트 구현 스터디</a> (2023.04 ~ 2023.06)
-<a href="https://github.com/Wooteco-JS-study/Modern_Javascript_Teco" target="_blank">자바스크립트 스터디</a> (2022.12 ~ 2023.01)
+
+[Rust 스터디](https://github.com/Self-Driven-Development/Rustudy) (2023.07 ~ )
+[CS 스터디](https://github.com/guesung/Frontend-Study) (2023.06 ~ )
+[Dogsounds TIL 스터디](https://github.com/Self-Driven-Development/TIL) (2023.05 ~ )
+[함수형 프로그래밍 스터디](https://github.com/kangju2000/functional-programming-study) (2023.04 ~ )
+[vanilla JS로 리액트 구현 스터디](https://github.com/Yoon-Hae-Min/create-react-with-vanilla-js-study) (2023.04 ~ 2023.06)
+[자바스크립트 스터디](https://github.com/Wooteco-JS-study/Modern_Javascript_Teco) (2022.12 ~ 2023.01)
 
 ## Contribution
 
-<a href="https://github.com/Nextjs-kr/Nextjs.kr/pull/369" target="_blank">Next.js 공식문서 번역 참여</a> (2023.06)
-<a href="https://github.com/reactjs/ko.react.dev/pull/606" target="_blank">React 공식문서 번역 참여</a> (2023.05)
-<a href="https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/pull/99" target="_blank">chrome-extension-boilerplate-react-vite 오픈소스 기여</a> (2023.04)
+[Next.js 공식문서 번역 참여](https://github.com/Nextjs-kr/Nextjs.kr/pull/369) (2023.06)
+[React 공식문서 번역 참여](https://github.com/reactjs/ko.react.dev/pull/606) (2023.05)
+[chrome-extension-boilerplate-react-vite 오픈소스 기여](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/pull/99) (2023.04)
 
 </pre>
 </div>
