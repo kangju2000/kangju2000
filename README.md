@@ -31,20 +31,27 @@
 <div class="highlight highlight-html">
 <pre>
 
+## Team Project
+
+[Gloddy](https://github.com/gloddy-dev/gloddy-client) (2023.07 ~ )
+[츄카드](https://github.com/Sprint15th/chu_card-client) (2023.06.21 ~ 2023.06.26)
+[카공실록](https://github.com/kagong-sillok/kagong-sillok-client) (2023.05 ~ )
+[내 플리를 부탁해, 플리즈](https://github.com/TEAM-PLZ/PLZ-front) (2022.11.23 ~ 2022.11.29)
+[Breaking](https://github.com/Breaking-Dope/breaking-frontend) (2022.06 ~ 2022.08)
+
+## Personal Project
+
+[Gachon Extension](https://github.com/kangju2000/gachon-extension) (2023.04 ~ )
+[react-seekbar](https://github.com/kangju2000/react-seekbar) (2023.04.07 ~ 2023.04.14)
+[next-spotify](https://github.com/kangju2000/next-spotify) (2023.02 ~ 2023.04)
+
+
 ## Team
 
+[Gloddy](https://github.com/gloddy-dev) (2023.07 ~ )
 [Prography](https://prography.org/) (2023.02 ~ 2023.08)
 [Self-Driven-Development](https://github.com/Self-Driven-Development) (2023.05 ~ )
 [도프(Dope) - 개발자 스터디](https://github.com/d-o-p-e) (2022.03 ~ )
-
-## Study
-
-[Rust 스터디](https://github.com/Self-Driven-Development/Rustudy) (2023.07 ~ )
-[CS 스터디](https://github.com/guesung/Frontend-Study) (2023.06 ~ )
-[Dogsounds TIL 스터디](https://github.com/Self-Driven-Development/TIL) (2023.05 ~ )
-[함수형 프로그래밍 스터디](https://github.com/kangju2000/functional-programming-study) (2023.04 ~ )
-[vanilla JS로 리액트 구현 스터디](https://github.com/Yoon-Hae-Min/create-react-with-vanilla-js-study) (2023.04 ~ 2023.06)
-[자바스크립트 스터디](https://github.com/Wooteco-JS-study/Modern_Javascript_Teco) (2022.12 ~ 2023.01)
 
 ## Contribution
 
