@@ -55,9 +55,10 @@
 
 ## Contribution
 
-[Next.js 공식문서 번역 참여](https://github.com/Nextjs-kr/Nextjs.kr/pull/369) (2023.06)
-[React 공식문서 번역 참여](https://github.com/reactjs/ko.react.dev/pull/606) (2023.05)
-[chrome-extension-boilerplate-react-vite 오픈소스 기여](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/pull/99) (2023.04)
+[Zustand](https://github.com/pmndrs/zustand/pull/1969)
+[Next.js 공식문서 번역 참여](https://github.com/Nextjs-kr/Nextjs.kr/pull/369)
+[React 공식문서 번역 참여](https://github.com/reactjs/ko.react.dev/pull/606)
+[chrome-extension-boilerplate-react-vite 오픈소스 기여](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/pull/99)
 
 </pre>
 </div>
