@@ -1,7 +1,5 @@
-
-
 <h1>
-<sup><sup>Frontend</sup> <sub>Developer</sub></sup> <sub><sub>강주혁입니다 :)</sub></sub>
+    <sup><sup>Frontend</sup> <sub>Developer</sub></sup> <sub><sub>강주혁입니다 :)</sub></sub>
 </h1>
 
 <p align="left">
@@ -35,9 +33,9 @@
 <details open>
 
 <summary>&nbsp;<b>이런 프로젝트를 했어요!</b></summary>
+<br />
 
-
-#### 팀 프로젝트
+<b>팀 프로젝트</b>
 
 <li><a href="https://github.com/gloddy-dev/gloddy-client">Gloddy</a> <sub>(2023.07 ~ )</sub></li>
 <li><a href="https://github.com/Sprint15th/chu_card-client">츄카드</a> <sub>(2023.06.21 ~ 2023.06.26)</sub></li>
@@ -46,7 +44,9 @@
 <li><a href="https://github.com/Breaking-Dope/breaking-frontend">Breaking</a> <sub>(2022.06 ~ 2022.08)</sub></li>
 
 
-#### 개인 프로젝트
+<br />
+
+<b>개인 프로젝트</b>
 
 <li><a href="https://github.com/kangju2000/playground">playground</a> <sub>(2023.08 ~ )</sub></li>
 <li><a href="https://github.com/kangju2000/gachon-extension">Gachon Extension</a> <sub>(2023.04 ~ 2023.06)</sub></li>
@@ -71,4 +71,4 @@
 
 <br />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kangju2000&show_icons=true&theme=dark" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=kangju2000&show_icons=true&theme=dark" />
