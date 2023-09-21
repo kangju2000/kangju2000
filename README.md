@@ -17,26 +17,27 @@
 
 <br/>
 
-<details open>
+<details>
 
 <summary>&nbsp;<b>이런 활동을 했어요!</b></summary>
 <br />
 
 <li><a href="https://github.com/GDSC-Gachon">GDSC Gachon</a> 1st Web Core Member <sub>(2023.09 ~ )</sub></li>
-<li><a href="https://github.com/gloddy-dev">Gloddy</a> <sub>(2023.07 ~ )</sub></li>
-<li><a href="https://prography.org/">Prography</a> <sub>(2023.02 ~ 2023.08)</sub></li>
+<li><a href="https://github.com/gloddy-dev">Gloddy</a> 외주 프론트엔드 개발<sub>(2023.07 ~ )</sub></li>
+<li><a href="https://prography.org/">Prography</a> 8기 React 파트<sub>(2023.02 ~ 2023.08)</sub></li>
 
 </details>
 
 <br/>
 
-<details open>
+<details>
 
 <summary>&nbsp;<b>이런 프로젝트를 했어요!</b></summary>
 <br />
 
 <b>팀 프로젝트</b>
 
+<li><a href="https://github.com/prography/pg-admin-frontend">프로그라피 어드민 페이지</a> <sub>(2023.09 ~ )</sub></li>
 <li><a href="https://github.com/gloddy-dev/gloddy-client">Gloddy</a> <sub>(2023.07 ~ )</sub></li>
 <li><a href="https://github.com/Sprint15th/chu_card-client">츄카드</a> <sub>(2023.06.21 ~ 2023.06.26)</sub></li>
 <li><a href="https://github.com/kagong-sillok/kagong-sillok-client">카공실록</a> <sub>(2023.05 ~ 2023.08)</sub></li>
@@ -57,7 +58,7 @@
 
 <br />
 
-<details open>
+<details>
 
 <summary>&nbsp;<b>오픈소스에 기여했어요!</b></summary>
 <br />
