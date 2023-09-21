@@ -1,6 +1,8 @@
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangju2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
-<h1><sup><sup>Frontend</sup> <sub>Developer</sub></sup> <sub><sub>강주혁입니다 :)</sub></sub></h1>
+
+<h1>
+<sup><sup>Frontend</sup> <sub>Developer</sub></sup> <sub><sub>강주혁입니다 :)</sub></sub>
+</h1>
 
 <p align="left">
     <a href="https://kang-ju.tistory.com/" target="_blank">
@@ -12,6 +14,7 @@
     <a href="https://www.figma.com/file/LMT3t6sHeIpzLrvQN8H4qS/%EA%B0%95%EC%A3%BC%ED%98%81-%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=1%3A2&t=xewMh9tjCEBSq9HG-1" target="_blank">
       <img src="https://img.shields.io/badge/Resume-ffffff?style=flat-square"/>
     </a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangju2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
 
 <br/>
