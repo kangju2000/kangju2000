@@ -22,7 +22,7 @@
 <summary>&nbsp;<b>이런 활동을 했어요!</b></summary>
 <br />
 
-<li><a href="https://github.com/GDSC-Gachon">GDSC Gachon</a> 1st Web Core Member <sub>(2023.09 ~ )</sub></li>
+<li><a href="https://github.com/GDSC-Gachon">GDSC Gachon</a> 1st FrontEnd Core Member <sub>(2023.09 ~ )</sub></li>
 <li><a href="https://github.com/gloddy-dev">Gloddy</a> 외주 프론트엔드 개발<sub>(2023.07 ~ )</sub></li>
 <li><a href="https://prography.org/">Prography</a> 8기 React 파트<sub>(2023.02 ~ 2023.08)</sub></li>
 
