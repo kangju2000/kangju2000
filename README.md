@@ -32,7 +32,7 @@
 
 > <b>팀 프로젝트</b>
 
-<li><a href="https://github.com/prography/pg-admin-frontend">프로그라피 어드민 페이지</a> <sub>(2023.09 ~ )</sub></li>
+<li><a href="https://github.com/prography-dev/prography-admin-web">프로그라피 어드민</a> <sub>(2023.09 ~ )</sub></li>
 <li><a href="https://github.com/gloddy-dev/gloddy-client">Gloddy</a> <sub>(2023.07 ~ )</sub></li>
 <li><a href="https://github.com/Sprint15th/chu_card-client">츄카드</a> <sub>(2023.06.21 ~ 2023.06.26)</sub></li>
 <li><a href="https://github.com/kagong-sillok/kagong-sillok-client">카공실록</a> <sub>(2023.05 ~ 2023.08)</sub></li>
