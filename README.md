@@ -1,8 +1,8 @@
 
 <h1>
     <ruby>강주혁<rp>(</rp><rt><sup>FE Developer</sup></rt><rp>)</rp></ruby>
-    <a href="https://wakatime.com/@0f1d9f2a-fec5-4d7d-853d-26a2723da169"><img align="right" src="https://wakatime.com/badge/user/0f1d9f2a-fec5-4d7d-853d-26a2723da169.svg" alt="Total time coded since Dec 30 2022" /></a>
     <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangju2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <a href="https://wakatime.com/@0f1d9f2a-fec5-4d7d-853d-26a2723da169"><img align="right" src="https://wakatime.com/badge/user/0f1d9f2a-fec5-4d7d-853d-26a2723da169.svg" alt="Total time coded since Dec 30 2022" /></a>
     
 </h1>
 
@@ -59,10 +59,11 @@
 <summary>&nbsp;<b>오픈소스에 기여했어요!</b></summary>
 <br />
 
-<li><a href="https://github.com/pmndrs/zustand/pull/1969">Zustand</a> 오픈소스 기여</li>
-<li><a href="https://github.com/Nextjs-kr/Nextjs.kr/pull/369">Next.js 공식문서</a> 번역 참여</li>
-<li><a href="https://github.com/reactjs/ko.react.dev/pull/606">React 공식문서</a> 번역 참여</li>
-<li><a href="https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/pull/99">chrome-extension-boilerplate-react-vite</a> 오픈소스 기여</li>
+<li><a href="https://github.com/PlasmoHQ/plasmo/pull/805">Plasmo</a></li>
+<li><a href="https://github.com/pmndrs/zustand/pull/1969">Zustand</a></li>
+<li><a href="https://github.com/Nextjs-kr/Nextjs.kr/pull/369">Next.js 공식문서</a></li>
+<li><a href="https://github.com/reactjs/ko.react.dev/pull/606">React 공식문서</a></li>
+<li><a href="https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/pull/99">chrome-extension-boilerplate-react-vite</a></li>
 
 </details>
 
