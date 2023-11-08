@@ -18,7 +18,7 @@
 <br />
 
 <li><a href="https://github.com/GDSC-Gachon">GDSC Gachon</a> 1st FE Core Member <sub>(2023.09 ~ )</sub></li>
-<li><a href="https://github.com/gloddy-dev">Gloddy</a> 외주 프론트엔드 개발<sub>(2023.07 ~ )</sub></li>
+<li><a href="https://github.com/gloddy-dev">Gloddy</a> 외주 프론트엔드 개발<sub>(2023.07 ~ 2023.11)</sub></li>
 <li><a href="https://prography.org/">Prography</a> 8기 React 파트<sub>(2023.02 ~ 2023.08)</sub></li>
 
 </details>
@@ -33,7 +33,7 @@
 > <b>팀 프로젝트</b>
 
 <li><a href="https://github.com/prography-dev/prography-admin-web">프로그라피 어드민</a> <sub>(2023.09 ~ )</sub></li>
-<li><a href="https://github.com/gloddy-dev/gloddy-client">Gloddy</a> <sub>(2023.07 ~ )</sub></li>
+<li><a href="https://github.com/gloddy-dev/gloddy-client">Gloddy</a> <sub>(2023.07 ~ 2023.11)</sub></li>
 <li><a href="https://github.com/Sprint15th/chu_card-client">츄카드</a> <sub>(2023.06.21 ~ 2023.06.26)</sub></li>
 <li><a href="https://github.com/kagong-sillok/kagong-sillok-client">카공실록</a> <sub>(2023.05 ~ 2023.08)</sub></li>
 <li><a href="https://github.com/TEAM-PLZ/PLZ-front">내 플리를 부탁해, 플리즈</a> <sub>(2022.11.23 ~ 2022.11.29)</sub></li>
@@ -44,9 +44,9 @@
 
 > <b>개인 프로젝트</b>
 
-<li><a href="https://github.com/kangju2000/next-blog">next-blog</a> <sub>(2023.09 ~ )</sub></li>
-<li><a href="https://github.com/kangju2000/playground">playground</a> <sub>(2023.08 ~ )</sub></li>
-<li><a href="https://github.com/kangju2000/gachon-extension">Gachon Extension</a> <sub>(2023.04 ~ 2023.06)</sub></li>
+<li><a href="https://github.com/kangju2000/next-blog">next-blog</a> <sub>(2023.09 ~ 2023.10)</sub></li>
+<li><a href="https://github.com/kangju2000/gachon-extension">Gachon Tools</a> <sub>(2023.04 ~ 2023.06)</sub></li>
+<li><a href="https://github.com/kangju2000/vanilla-react">vanilla-react</a> <sub>(2023.04 ~ 2023.06)</sub>
 <li><a href="https://github.com/kangju2000/react-seekbar">react-seekbar</a> <sub>(2023.04.07 ~ 2023.04.14)</sub></li>
 <li><a href="https://github.com/kangju2000/next-spotify">next-spotify</a> <sub>(2023.02 ~ 2023.04)</sub></li>
 
