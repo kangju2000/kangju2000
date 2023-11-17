@@ -18,8 +18,8 @@
 <br />
 
 <li><a href="https://github.com/GDSC-Gachon">GDSC Gachon</a> 1st FE Core Member <sub>(2023.09 ~ )</sub></li>
-<li><a href="https://github.com/gloddy-dev">Gloddy</a> 외주 프론트엔드 개발<sub>(2023.07 ~ 2023.11)</sub></li>
-<li><a href="https://prography.org/">Prography</a> 8기 React 파트<sub>(2023.02 ~ 2023.08)</sub></li>
+<li><a href="https://github.com/gloddy-dev">Gloddy</a> 외주 프론트엔드 개발 <sub>(2023.07 ~ 2023.11)</sub></li>
+<li><a href="https://prography.org/">Prography</a> 8기 React 파트 <sub>(2023.02 ~ 2023.08)</sub></li>
 
 </details>
 
@@ -44,8 +44,8 @@
 
 > <b>개인 프로젝트</b>
 
-<li><a href="https://github.com/kangju2000/next-blog">next-blog</a> <sub>(2023.09 ~ 2023.10)</sub></li>
-<li><a href="https://github.com/kangju2000/gachon-extension">Gachon Tools</a> <sub>(2023.04 ~ 2023.06)</sub></li>
+<li><a href="https://github.com/kangju2000/kangju.dev">kangju.dev</a> <sub>(2023.09 ~ 2023.10)</sub></li>
+<li><a href="https://github.com/kangju2000/gachon-tools">Gachon Tools</a> <sub>(2023.04 ~ 2023.06)</sub></li>
 <li><a href="https://github.com/kangju2000/vanilla-react">vanilla-react</a> <sub>(2023.04 ~ 2023.06)</sub>
 <li><a href="https://github.com/kangju2000/react-seekbar">react-seekbar</a> <sub>(2023.04.07 ~ 2023.04.14)</sub></li>
 <li><a href="https://github.com/kangju2000/next-spotify">next-spotify</a> <sub>(2023.02 ~ 2023.04)</sub></li>
