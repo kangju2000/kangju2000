@@ -8,10 +8,10 @@
 [BLOG](https://kangju.dev/) | [RESUME](https://www.figma.com/file/LMT3t6sHeIpzLrvQN8H4qS/%EA%B0%95%EC%A3%BC%ED%98%81-%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=1%3A2&t=xewMh9tjCEBSq9HG-1)
 
 <br />
-<li>toss<sup><a href="https://github.com/toss">↗</a></sup> / UX Engineer Assistant <sub>(2023.12 ~ )</sub></li>
-<li>GDSC Gachon<sup><a href="https://github.com/GDSC-Gachon">↗</a></sup> / 1st FE Core Member <sub>(2023.09 ~ )</sub></li>
+<li>Viva Republica(Toss)<sup><a href="https://toss.im">↗</a></sup> / UX Engineer Assistant <sub>(2023.12 ~ )</sub></li>
+<li>GDSC Gachon<sup><a href="https://gdsc.community.dev/gachon-university">↗</a></sup> / 1st FE Core Member <sub>(2023.09 ~ )</sub></li>
 <li>Gloddy<sup><a href="https://github.com/gloddy-dev">↗</a></sup> / 외주 FE <sub>(2023.07 ~ 2023.11)</sub></li>
-<li>Prography<sup><a href="https://prography.org/">↗</a></sup> / 8기 React 파트 <sub>(2023.02 ~ 2023.08)</sub></li>
+<li>Prography<sup><a href="https://prography.org">↗</a></sup> / 8기 React 파트 <sub>(2023.02 ~ 2023.08)</sub></li>
 
 <br/>
 <br/>
