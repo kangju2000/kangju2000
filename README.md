@@ -1,11 +1,30 @@
+
 <h1>
-    <ruby>강주혁<rp>(</rp><rt><sup>FE Developer</sup></rt><rp>)</rp></ruby>
-    <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangju2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <ruby>강주혁<rp>(</rp><rt><sup><sub>Front-end Engineer</sub></sup></rt><rp>)</rp></ruby>
+    <p align="right">
+        <a href="https://kangju.dev/">
+            <picture decoding="async" loading="lazy">
+              <source media="(prefers-color-scheme: light)" srcset="https://github.com/kangju2000/kangju2000/assets/23312485/dee7f2d4-d177-40fa-ac4f-e2c89317162d">
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kangju2000/kangju2000/assets/23312485/fc9e7e0d-e645-4100-84a1-b6b11a1e87ff">
+              <img alt="blog" src="https://github.com/kangju2000/kangju2000/assets/23312485/dee7f2d4-d177-40fa-ac4f-e2c89317162d">
+            </picture>
+        </a>
+        <a href="https://www.figma.com/file/LMT3t6sHeIpzLrvQN8H4qS/%EA%B0%95%EC%A3%BC%ED%98%81-%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=1%3A2&t=xewMh9tjCEBSq9HG-1">
+            <picture decoding="async" loading="lazy">
+              <source media="(prefers-color-scheme: light)" srcset="https://github.com/kangju2000/kangju2000/assets/23312485/f15d7af4-4ba3-4398-a0cc-8d548c72a0e3">
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kangju2000/kangju2000/assets/23312485/6fcb949e-1dd0-4955-b2e6-9c5035f599bf">
+              <img alt="blog" src="https://github.com/kangju2000/kangju2000/assets/23312485/f15d7af4-4ba3-4398-a0cc-8d548c72a0e3">
+            </picture>
+        </a>
+    </p>
     <a href="https://wakatime.com/@0f1d9f2a-fec5-4d7d-853d-26a2723da169"><img align="right" src="https://wakatime.com/badge/user/0f1d9f2a-fec5-4d7d-853d-26a2723da169.svg" alt="Total time coded since Dec 30 2022" /></a>
-
+    <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangju2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </h1>
-
-[BLOG](https://kangju.dev/) | [RESUME](https://www.figma.com/file/LMT3t6sHeIpzLrvQN8H4qS/%EA%B0%95%EC%A3%BC%ED%98%81-%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=1%3A2&t=xewMh9tjCEBSq9HG-1)
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=kangju2000&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=kangju2000&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=kangju2000&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
 
 <br />
 <li>Viva Republica(Toss)<sup><a href="https://toss.im">↗</a></sup> / UX Engineer Assistant <sub>(2023.12 ~ )</sub></li>
@@ -56,7 +75,3 @@
 <li>chrome-extension-boilerplate-react-vite<sup><a href="https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/pull/99">↗</a></sup></li>
 
 </details>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=kangju2000&show_icons=true&theme=dark" />
