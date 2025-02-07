@@ -7,7 +7,7 @@
 ## Work & Communities
 | Organization | Position | Period |
 |:------------|:---------|:---------|
-| [Toss](https://toss.im/) | Frontend Engineer Assistant (UX) @ Interaction Team  | 2023.12 ~ Present |
+| [Toss](https://toss.im/) | Frontend Engineer Assistant (UX) @ Interaction Team  | 2023.12 ~ 2025.02 |
 | [Gloddy](https://github.com/gloddy-dev) | Freelance Frontend Engineer | 2023.07 ~ 2023.11 |
 | [GDSC Gachon](https://gdsc.community.dev/gachon-university/) | 1st FE Core Member | 2023.09 ~ 2024.06 |
 | [Prography](https://prography.org/) | 8th React Team | 2023.02 ~ 2023.08 |
