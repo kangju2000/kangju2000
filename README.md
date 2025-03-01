@@ -7,6 +7,7 @@
 ## Work & Communities
 | Organization | Position | Period |
 |:------------|:---------|:---------|
+| [Rapport Labs](https://www.rapportlabs.kr/) | Frontend Engineer | 2025.02 ~ current |
 | [Toss](https://toss.im/) | Frontend Engineer Assistant (UX) @ Interaction Team  | 2023.12 ~ 2025.02 |
 | [Gloddy](https://github.com/gloddy-dev) | Freelance Frontend Engineer | 2023.07 ~ 2023.11 |
 | [GDSC Gachon](https://gdsc.community.dev/gachon-university/) | 1st FE Core Member | 2023.09 ~ 2024.06 |
@@ -18,7 +19,6 @@
 | Project | Role | Period |
 |:---------|:------|:---------|
 | [toss/suspensive](https://github.com/toss/suspensive) | Maintainer | 2024.07 ~ Present |
-| [sandkit](https://github.com/sandkit) | Creator & Maintainer | Coming Soon |
 
 <br />
 
