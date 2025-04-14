@@ -18,6 +18,7 @@
 ## Open Source Maintainer
 | Project | Role | Period |
 |:---------|:------|:---------|
+| [offlegacy/git-intent](https://github.com/offlegacy/git-intent) | Maintainer | 2025.03 ~ Present |
 | [toss/suspensive](https://github.com/toss/suspensive) | Maintainer | 2024.07 ~ Present |
 
 <br />
