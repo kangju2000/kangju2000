@@ -39,7 +39,6 @@
 [View all contributions...](https://github.com/search?q=author%3Akangju2000+created%3A%3E2023-08-01+-user%3Akangju2000+-org%3Agloddy-dev+-org%3AGDGoC-Gachon+-org%3Akagong-sillok+-org%3Awoowacourse-precourse+-org%3Aprography-dev&type=pullrequests&-repo%3Akangju2000%2Fgachon-tools=)
 
 <p align="right">
-  <img src="https://badges.pufler.dev/visits/kangju2000/kangju2000" />
   <a href="https://wakatime.com/@0f1d9f2a-fec5-4d7d-853d-26a2723da169">
     <img src="https://wakatime.com/badge/user/0f1d9f2a-fec5-4d7d-853d-26a2723da169.svg" alt="Total time coded since Dec 30 2022" />
   </a>
