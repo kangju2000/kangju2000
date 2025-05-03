@@ -41,6 +41,7 @@
 ![](https://hit.yhype.me/github/profile?account_id=23312485)
 
 <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kangju2000">
   <a href="https://wakatime.com/@0f1d9f2a-fec5-4d7d-853d-26a2723da169">
     <img src="https://wakatime.com/badge/user/0f1d9f2a-fec5-4d7d-853d-26a2723da169.svg" alt="Total time coded since Dec 30 2022" />
   </a>
