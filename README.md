@@ -7,7 +7,8 @@
 ## Work & Communities
 | Organization | Position | Period |
 |:------------|:---------|:---------|
-| [Rapport Labs](https://www.rapportlabs.kr/) | Frontend Engineer | 2025.02 ~ Present |
+| [Toss](https://toss.im/) | Frontend Developer  | 2025.12 ~ Present |
+| [Rapport Labs](https://www.rapportlabs.kr/) | Frontend Engineer | 2025.02 ~ 2025.12 |
 | [Toss](https://toss.im/) | Frontend Engineer Assistant (UX) @ Interaction Team  | 2023.12 ~ 2025.02 |
 | [Gloddy](https://github.com/gloddy-dev) | Freelance Frontend Engineer | 2023.07 ~ 2023.11 |
 | [GDSC Gachon](https://gdsc.community.dev/gachon-university/) | 1st FE Core Member | 2023.09 ~ 2024.06 |
@@ -18,7 +19,8 @@
 ## Open Source Maintainer
 | Project | Role | Period |
 |:---------|:------|:---------|
-| [offlegacy/git-intent](https://github.com/offlegacy/git-intent) | Maintainer | 2025.03 ~ Present |
+| 
+[offlegacy/git-intent](https://github.com/offlegacy/git-intent) | Maintainer | 2025.03 ~ Present |
 | [toss/suspensive](https://github.com/toss/suspensive) | Maintainer | 2024.07 ~ Present |
 
 <br />
@@ -35,13 +37,15 @@
 <br />
 
 ## Open Source Contributions
+| Organization | Projects |
+|:------------|:---------|
+| toss | [suspensive](https://github.com/toss/suspensive/pulls?q=is%3Apr+author%3Akangju2000)<br>[es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+author%3Akangju2000)<br>[es-hangul](https://github.com/toss/es-hangul/pulls?q=is%3Apr+author%3Akangju2000) |
+| pmndrs | [zustand](https://github.com/pmndrs/zustand/pulls?q=is%3Apr+author%3Akangju2000)<br>[docs](https://github.com/pmndrs/docs/pulls?q=is%3Apr+author%3Akangju2000)<br>[xr](https://github.com/pmndrs/xr/pulls?q=is%3Apr+author%3Akangju2000) |
+| others | [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle/pulls?q=is%3Apr+author%3Akangju2000)<br>[TanStack/query](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Akangju2000)<br>[PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo/pulls?q=is%3Apr+author%3Akangju2000)<br>[motiondivision/motion](https://github.com/motiondivision/motion/pulls?q=is%3Apr+author%3Akangju2000)<br>[Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr/pulls?q=is%3Apr+author%3Akangju2000)<br>[reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+author%3Akangju2000) |
 
 [View all contributions...](https://github.com/search?q=author%3Akangju2000+created%3A%3E2023-08-01+-user%3Akangju2000+-org%3Agloddy-dev+-org%3AGDGoC-Gachon+-org%3Akagong-sillok+-org%3Awoowacourse-precourse+-org%3Aprography-dev&type=pullrequests&-repo%3Akangju2000%2Fgachon-tools=)
 
-![](https://hit.yhype.me/github/profile?account_id=23312485)
-
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kangju2000">
   <a href="https://wakatime.com/@0f1d9f2a-fec5-4d7d-853d-26a2723da169">
     <img src="https://wakatime.com/badge/user/0f1d9f2a-fec5-4d7d-853d-26a2723da169.svg" alt="Total time coded since Dec 30 2022" />
   </a>
